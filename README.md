@@ -4,8 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at JUET-Guna. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am an undergraduate Computer science and Engineering student at JUET-Guna. C, C++, Python, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - C++
   - Python
